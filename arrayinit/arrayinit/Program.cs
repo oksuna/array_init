@@ -14,7 +14,7 @@ namespace arrayinit
             }
 
 
-            Console.WriteLine("Hello Oksana from Slava, I adore you very much!");
+            Console.WriteLine("Hello Oksana from Slava, and kiss, I adore you very much!!");
         }
     }
 }
