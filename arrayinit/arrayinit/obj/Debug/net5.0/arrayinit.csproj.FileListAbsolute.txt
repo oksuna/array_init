@@ -1,0 +1,16 @@
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.exe
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.deps.json
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.runtimeconfig.json
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.runtimeconfig.dev.json
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.dll
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\ref\arrayinit.dll
+C:\code\array_init\array_init\arrayinit\arrayinit\bin\Debug\net5.0\arrayinit.pdb
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.csproj.AssemblyReference.cache
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.AssemblyInfoInputs.cache
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.AssemblyInfo.cs
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.csproj.CoreCompileInputs.cache
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.dll
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\ref\arrayinit.dll
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.pdb
+C:\code\array_init\array_init\arrayinit\arrayinit\obj\Debug\net5.0\arrayinit.genruntimeconfig.cache
