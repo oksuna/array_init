@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vbukach/Documents/code/personal/array_init/arrayinit/arrayinit/arrayinit.csproj": {}
+    "C:\\code\\array_init\\array_init\\arrayinit\\arrayinit\\arrayinit.csproj": {}
   },
   "projects": {
-    "/Users/vbukach/Documents/code/personal/array_init/arrayinit/arrayinit/arrayinit.csproj": {
+    "C:\\code\\array_init\\array_init\\arrayinit\\arrayinit\\arrayinit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vbukach/Documents/code/personal/array_init/arrayinit/arrayinit/arrayinit.csproj",
+        "projectUniqueName": "C:\\code\\array_init\\array_init\\arrayinit\\arrayinit\\arrayinit.csproj",
         "projectName": "arrayinit",
-        "projectPath": "/Users/vbukach/Documents/code/personal/array_init/arrayinit/arrayinit/arrayinit.csproj",
-        "packagesPath": "/Users/vbukach/.nuget/packages/",
-        "outputPath": "/Users/vbukach/Documents/code/personal/array_init/arrayinit/arrayinit/obj/",
+        "projectPath": "C:\\code\\array_init\\array_init\\arrayinit\\arrayinit\\arrayinit.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\array_init\\array_init\\arrayinit\\arrayinit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vbukach/.config/NuGet/NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.6.21355.2/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
