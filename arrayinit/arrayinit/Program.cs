@@ -14,7 +14,7 @@ namespace arrayinit
             }
 
 
-            Console.WriteLine("Hello Oksana!");
+            Console.WriteLine("Hello Oksana from Slava!");
         }
     }
 }
